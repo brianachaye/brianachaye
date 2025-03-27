@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brianachaye aka 'The Data Whisperer.
 - 👀 I’m interested in Data Science, Engineering & Analysis.
-- 🌱 I’m currently learning Phython & R.
+- 🌱 I’m currently learning R & Machine Language.
 - 💞️ I’m looking to collaborate on Data Science, Engineering & Analysis.
 - 📫 Reach out to me at contact@brianachaye.com
 - ⚡ Fun fact: I just love data.
