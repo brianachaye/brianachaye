@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brianachaye aka 'The Data Whisperer.
+- 👋 Hi, I’m Brian Achaye aka 'The Data Whisperer.
 - 👀 I’m interested in Data Science, Engineering & Analysis.
 - 🌱 I’m currently learning R & Machine Language.
 - 💞️ I’m looking to collaborate on Data Science, Engineering & Analysis.
